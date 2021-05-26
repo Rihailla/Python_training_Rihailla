@@ -1,1 +1,1 @@
-# Python_training_Rihailla
+# Repository for Python training Python_training_Rihailla
